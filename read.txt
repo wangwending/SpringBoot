@@ -8,6 +8,6 @@ step2:
 	负责github的项目路径
 	
 	在视图找到 Git Repositories
-	选clone
+	选clone 选对应的项目在github上的URL
 	
 	
